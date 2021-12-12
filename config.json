@@ -1,0 +1,6 @@
+{
+    "username" : "postgres",
+    "password" : "admin",
+    "host" : "localhost" ,
+    "dbname" : "sputnik"
+}
