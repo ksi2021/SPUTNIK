@@ -1,5 +1,4 @@
 <?php
-
 class Session
 {
     public function __construct()
@@ -36,3 +35,4 @@ class Session
     }
 
 }
+?>

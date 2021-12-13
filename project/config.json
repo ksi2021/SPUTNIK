@@ -1,6 +1,6 @@
 {
     "username" : "postgres",
     "password" : "admin",
-    "host" : "localhost" ,
+    "host" : "db" ,
     "dbname" : "sputnik"
 }
