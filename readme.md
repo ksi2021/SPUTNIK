@@ -4,7 +4,7 @@ php:7.2-apache <br>
 postgres:latest <br>
 adminer:latest
 
-docker:4.3.0.0
+docker:4.3.0.0<br>
 phpstorm:2021.2.3
 
 
